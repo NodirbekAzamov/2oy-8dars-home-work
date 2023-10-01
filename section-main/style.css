@@ -16,12 +16,12 @@ section .container {
   padding: 0 60px;
 }
 section .container .section-text {
-  max-width: 1152px;
+  max-width: 1050px;
 }
 section .container .section-text h3 {
   color: #F1F1EB;
   font-family: "Regular";
-  font-size: 80px;
+  font-size: 70px;
   line-height: 100px;
   padding-top: 84px;
 }
