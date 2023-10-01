@@ -46,7 +46,7 @@ header .container .header_text h1 {
 }
 header .header_img {
   max-width: 100%;
-  min-height: 100vh;
+  max-height: 100vh;
   padding: 0 40px;
   margin-top: 136px;
 }
@@ -144,10 +144,6 @@ header .container .content button {
     font-size: 25px;
     font-weight: 400;
     line-height: 35px;
-  }
-  header .header_img {
-    width: 100vh;
-    height: 450xpx;
   }
   header .container .content {
     margin-top: 35px;
