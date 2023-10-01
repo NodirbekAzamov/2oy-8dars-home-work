@@ -1,6 +1,7 @@
 @import url(../header/style.css);
 @import url(../section-main/style.css);
 @import url(../nav/style.css);
+@import url(../footer/style.css);
 @font-face {
   font-family: "Regular";
   src: url(../fonts/Poppins-MediumItalic.ttf);
