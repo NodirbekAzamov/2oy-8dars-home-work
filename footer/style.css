@@ -125,6 +125,7 @@ footer .container .footer_many .footer_right .footer_box a {
   }
   footer .container .footer_many .footer_right {
     display: flex;
+    flex-wrap: wrap;
     gap: 15px;
   }
 }/*# sourceMappingURL=style.css.map */

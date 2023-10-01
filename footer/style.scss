@@ -154,6 +154,7 @@ footer {
                 }
                 .footer_right {
                     display: flex;
+                    flex-wrap: wrap;
                     gap: 15px;
                 }
             }
