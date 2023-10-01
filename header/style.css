@@ -145,9 +145,6 @@ header .container .content button {
     font-weight: 400;
     line-height: 35px;
   }
-  header .header_img {
-    min-width: 100vh;
-  }
   header .container .content {
     margin-top: 35px;
   }
