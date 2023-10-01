@@ -146,7 +146,6 @@ header .container .content button {
     line-height: 35px;
   }
   header .header_img {
-    max-width: 100%;
     min-width: 100vh;
   }
   header .container .content {
